@@ -49,3 +49,5 @@
 **Certifications:** Master the Coding Interview: Data Structures + Algorithms, JavaScript Algorithms and Data Structures Masterclass  
 
 ---
+
+[📄 Download Resume PDF](Keegan-Bond-Resume-2025.pdf)
