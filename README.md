@@ -53,4 +53,4 @@
 
 ---
 
-[📄 Download Resume PDF](resume.pdf)
+[📄 Download Resume PDF](Keegan-Bond-Resume-2025.pdf)
