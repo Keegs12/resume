@@ -27,11 +27,10 @@
 
 ## 🛠 Projects
 
-### **EsportsHub** — Creator (*Dec 2022*)  
-- Built an esports platform for **League of Legends** and **Valorant**.  
-- Enabled user-generated articles, profile customization, and team/player info.  
-- Backend: **Express + Node.js**, CRUD endpoints.  
-- Frontend: **React.js**, HTML/CSS/SASS, JavaScript.  
+### **[Spotify Playlist Builder](https://spotify-playlist-builder-henna.vercel.app/)** — Creator (*Jan 2026*)  
+- Built a Spotify-integrated playlist builder tool using Next.js, React, and TypeScript, enabling users to add and or build playlists quickly through powerful filtering and bulk selection..  
+- Implemented Spotify OAuth and API integrations to support playlist creation, track addition, and genre-based filtering 
+- Designed a clean, responsive UI with Tailwind CSS, shadcn, and MUI. 
 
 ---
 
