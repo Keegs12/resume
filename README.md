@@ -7,6 +7,12 @@
 
 ## 💼 Experience
 
+### **N86** — Founding Engineer 
+*Remote | Mar 2026 – Current*  
+- First engineering hire — building the N86 platform from 0→1 alongside the founding team, owning frontend architecture and core product surfaces. 
+- Drive UI/UX end-to-end: design wireframes and high-fidelity mockups in Figma, then ship them as production React components — closing the design-to-code loop without a dedicated designer.
+- Operate across the full stack and product lifecycle — scoping features, making technical trade-offs, and shipping, deploying, and iterating directly with founders.
+
 ### **Acadium** — Software Engineer Intern  
 *Remote | Jun 2025 – Oct 2025*  
 - Designed and implemented **Acadium Sales**, a responsive internal dashboard for managing and filtering thousands of user records.  
